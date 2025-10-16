@@ -1,4 +1,4 @@
-# Mayfield Medication Tracker - User Guide
+# Medication Tracker - User Guide
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
