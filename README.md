@@ -25,7 +25,7 @@ A comprehensive browser-based web application for classroom medication tracking.
 - Real-time overview of today's medication schedule
 - Statistics: Total scheduled, completed, due now, overdue
 - Progress indicator showing completion percentage
-- Color-coded schedule items by urgency
+- Colour-coded schedule items by urgency
 - Quick actions to mark medications as administered
 
 ### 3. Student Management
@@ -57,7 +57,7 @@ A comprehensive browser-based web application for classroom medication tracking.
   - ✓ **Administered** - Immediately logs administration, updates status to DONE, removes alert tile, and closes overlay if no other alerts remain
   - **Snooze (5/10/15 min)** - Reschedules the medication
   - **Open Details** - Navigate to student details without dismissing alert
-- **Visual attention cues:** Pulsing animations, high contrast colors
+- **Visual attention cues:** Pulsing animations, high contrast colours
 - **Status tracking:** DUE, OVERDUE (15+ minutes late)
 
 ### 6. Administration Logging
@@ -81,7 +81,7 @@ A comprehensive browser-based web application for classroom medication tracking.
 
 ### 8. UX Enhancements
 - **Global search** on students and medications pages
-- **Color coding:**
+- **Colour coding:**
   - 🔴 Red = Overdue
   - 🟠 Orange = Due now
   - 🟢 Green = Completed
@@ -136,7 +136,7 @@ The application comes with seed data including medications scheduled throughout 
 
 3. **Overdue Alerts:**
    - Advance time 20+ minutes past a scheduled time
-   - Observe "OVERDUE" status and red coloring
+   - Observe "OVERDUE" status and red colouring
 
 4. **Snooze Functionality:**
    - Click "Snooze 5m" on an alert
@@ -180,7 +180,7 @@ The application comes with seed data including medications scheduled throughout 
 
 ## ♿ Accessibility (WCAG 2.2 AA)
 
-- High contrast color schemes
+- High contrast colour schemes
 - Minimum 44x44px touch targets
 - Keyboard navigation support
 - Screen reader compatible
@@ -189,7 +189,7 @@ The application comes with seed data including medications scheduled throughout 
 - ARIA labels where appropriate
 - Reduced motion support for users with vestibular disorders
 
-## 🌍 Localization
+## 🌍 Localisation
 
 - UK date format (DD/MM/YYYY)
 - 24-hour time format
@@ -224,7 +224,7 @@ The application is a single-page application (SPA) consisting of:
 
 ## 📱 Responsive Design
 
-The application is optimized for:
+The application is optimised for:
 - Desktop displays (1920x1080 and above)
 - Laptop screens (1366x768 and above)
 - Tablet devices (768px and above)
